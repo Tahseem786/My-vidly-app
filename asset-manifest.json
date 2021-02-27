@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/My-vidly-app/static/css/main.9f39cf69.chunk.css",
+    "main.js": "/My-vidly-app/static/js/main.f5497a55.chunk.js",
+    "main.js.map": "/My-vidly-app/static/js/main.f5497a55.chunk.js.map",
+    "runtime-main.js": "/My-vidly-app/static/js/runtime-main.55744f63.js",
+    "runtime-main.js.map": "/My-vidly-app/static/js/runtime-main.55744f63.js.map",
+    "static/css/2.8e49815e.chunk.css": "/My-vidly-app/static/css/2.8e49815e.chunk.css",
+    "static/js/2.111655e4.chunk.js": "/My-vidly-app/static/js/2.111655e4.chunk.js",
+    "static/js/2.111655e4.chunk.js.map": "/My-vidly-app/static/js/2.111655e4.chunk.js.map",
+    "index.html": "/My-vidly-app/index.html",
+    "static/css/2.8e49815e.chunk.css.map": "/My-vidly-app/static/css/2.8e49815e.chunk.css.map",
+    "static/css/main.9f39cf69.chunk.css.map": "/My-vidly-app/static/css/main.9f39cf69.chunk.css.map",
+    "static/js/2.111655e4.chunk.js.LICENSE.txt": "/My-vidly-app/static/js/2.111655e4.chunk.js.LICENSE.txt",
+    "static/media/down.d5ec88c8.png": "/My-vidly-app/static/media/down.d5ec88c8.png",
+    "static/media/heart.c412cbae.png": "/My-vidly-app/static/media/heart.c412cbae.png",
+    "static/media/like1.556c78a5.png": "/My-vidly-app/static/media/like1.556c78a5.png",
+    "static/media/loading.ac4a764b.gif": "/My-vidly-app/static/media/loading.ac4a764b.gif",
+    "static/media/upper.b571ec65.png": "/My-vidly-app/static/media/upper.b571ec65.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55744f63.js",
+    "static/css/2.8e49815e.chunk.css",
+    "static/js/2.111655e4.chunk.js",
+    "static/css/main.9f39cf69.chunk.css",
+    "static/js/main.f5497a55.chunk.js"
+  ]
+}
