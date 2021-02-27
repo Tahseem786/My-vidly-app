@@ -127,14 +127,14 @@ const Demo = (props) => {
     <>
       <ToastContainer />
       <div id="status">       
-        {movies.length > 0 ? (<h5 >You have total &nbsp;{movies.length} Movies in data set.</h5>) : (<h5 >You have No Movies in data set.</h5>)}
+        {movies.length > 0 ? (<h5 >Search Result: &nbsp;{movies.length} Movies Found!</h5>) : (<h5 style={{color:"red"}} >No Movies in Search Filter!</h5>)}
         </div>
       <div style={{
         display:"flex",
         flexDirection:"row",
         flexWrap: "wrap",
         justifyContent:"space-between"}} id = "container">
-        <div id="Gener" style={{ width: "25%", margin: "40px" }}>
+        <div id="Gener" style={{ width: "25%", margin: "10px" }}>
           <Gener
             items={generSample}
             currentItem={Gcurrent}
